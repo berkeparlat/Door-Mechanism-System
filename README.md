@@ -1,1 +1,1 @@
-# Door-Mechanism-System
+The objective of this project is to design a state-space controller for a door mechanism system powered by a DC motor. The system incorporates components such as a gears for motion control. This report covers the modeling, analysis, and controller design steps required to stabilize the system and ensure desired performance. MATLAB and Simulink tools are used to validate the design through simulations. 
